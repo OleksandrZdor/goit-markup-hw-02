@@ -119,18 +119,15 @@ background-color: #FFFFFF;
             letter-spacing: 0.02em;
             color: var(--slate);
     }
-    .team {
+    .team-header {
             font-size: 36px;
             line-height: 111%;
             letter-spacing: 0.02em;
             text-align: center;
+            background-color: #F4F4FD;
     }
-    .team {
-            font-weight: 500;
-            font-size: 20px;
-            line-height: 120%;
-            letter-spacing: 0.02em;
-            text-align: center;
+    .team-section {
+        background-color: #F4F4FD;
     }
     .team-list {
             font-weight: 500;
@@ -138,7 +135,6 @@ background-color: #FFFFFF;
             line-height: 120%;
             letter-spacing: 0.02em;
             text-align: center;
-            color: var(--navy-blue);
     }
     .team-list-prof {
             font-weight: 400;
