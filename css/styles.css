@@ -98,6 +98,9 @@ background-color: #FFFFFF;
     .button:focus {
         background: var(--ocean);
     }
+    .advantages {
+        color: #2e2f42;
+    }
     .adv-list {
             font-weight: 500;
             font-size: 20px;
