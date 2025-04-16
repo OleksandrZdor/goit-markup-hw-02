@@ -75,7 +75,7 @@ background-color: #FFFFFF;
        color: var(--ocean);
    }
    .header {
-        background: var(--navy-blue);
+        background: #2e2f42;
         font-size: 56px;
         line-height: 107%;
         letter-spacing: 0.02em;
