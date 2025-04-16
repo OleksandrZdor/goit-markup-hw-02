@@ -47,55 +47,55 @@ color: var(--navy-blue);
         font-size: 16px;
         line-height: 150%;
         letter-spacing: 0.02em;
-        color: #2e2f42;
+        color: var(--navy-blue);
    }
    .nav-list a:focus {
-    color: #404bbf;
+    color: var(--ocean);
    }
    .nav-list a:hover {
-       color: #404bbf;
+       color: var(--ocean);
    }
    .nav-list .nav-studio:active {
-    color: #404bbf;
-    background: #404bbf;
+    color: var(--ocean);
+    background: var(--ocean);
    }
    .address a {
         font-weight: 400;
         font-size: 16px;
         line-height: 150%;
         letter-spacing: 0.02em;
-        color: #2e2f42;
+        color: var(--navy-blue);
         font-style: normal;
    }
    .address a:hover {
-        color: #404bbf;
+        color: var(--ocean);
    }
    .address a:focus {
-       color: #404bbf;
+       color: var(--ocean);
    }
    .header {
-        background: #2e2f42;
+        background: var(--navy-blue);
         font-size: 56px;
         line-height: 107%;
         letter-spacing: 0.02em;
         text-align: center;
-        color: #fff;
+        color: var(--white);
    }
     .button {
         cursor: pointer;
-        background: #4d5ae5;
+        background: var(--iris);
         font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 16px;
         line-height: 150%;
         letter-spacing: 0.04em;
-        color: #fff;
+        color: var(--white);
     }
     .button:hover {
-        background: #404bbf;
+        background: var(--ocean);
     }
     .button:focus {
-        background: #404bbf;
+        background: var(--ocean);
     }
     .adv-list {
             font-weight: 500;
@@ -108,7 +108,7 @@ color: var(--navy-blue);
             font-size: 16px;
             line-height: 150%;
             letter-spacing: 0.02em;
-            color: #434455;
+            color: var(--slate);
     }
     .team {
             font-size: 36px;
@@ -129,7 +129,7 @@ color: var(--navy-blue);
             line-height: 120%;
             letter-spacing: 0.02em;
             text-align: center;
-            color: #2e2f42;
+            color: var(--navy-blue);
     }
     .team-list-prof {
             font-weight: 400;
@@ -137,26 +137,26 @@ color: var(--navy-blue);
             line-height: 150%;
             letter-spacing: 0.02em;
             text-align: center;
-            color: #434455;
+            color: var(--slate);
     }
     .portfolio {
             font-size: 36px;
             line-height: 111%;
             letter-spacing: 0.02em;
             text-align: center;
-            color: #2e2f42;
+            color: var(--navy-blue);
     }
     .portfolio-list {
             font-weight: 500;
             font-size: 20px;
             line-height: 120%;
             letter-spacing: 0.02em;
-            color: #2e2f42;
+            color: var(--navy-blue);
     }
     .portfolio-descr {
             font-weight: 400;
             font-size: 16px;
             line-height: 150%;
             letter-spacing: 0.02em;
-            color: #434455;
+            color: var(--slate);
     }
