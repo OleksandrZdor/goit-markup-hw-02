@@ -25,7 +25,7 @@ background-color: #FFFFFF;
             text-decoration: none;
         }
     }
-    span {
+    .span {
         font-family: var(--second-family);
         font-weight: 700;
         font-size: 18px;
