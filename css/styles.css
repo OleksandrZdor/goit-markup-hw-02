@@ -43,24 +43,24 @@ background-color: #FFFFFF;
         text-transform: uppercase;
         color: #4d5ae5;
     }
-    .nav-list a {
+    .nav-list {
         font-weight: 500;
         font-size: 16px;
         line-height: 150%;
         letter-spacing: 0.02em;
         color: var(--navy-blue);
    }
-   .nav-list a:focus {
+   .nav-list:focus {
     color: var(--ocean);
    }
-   .nav-list a:hover {
+   .nav-list:hover {
        color: var(--ocean);
    }
    .nav-list .nav-studio:active {
     color: var(--ocean);
     background: var(--ocean);
    }
-   .address a {
+   .address {
         font-weight: 400;
         font-size: 16px;
         line-height: 150%;
@@ -68,10 +68,10 @@ background-color: #FFFFFF;
         color: var(--navy-blue);
         font-style: normal;
    }
-   .address a:hover {
+   .address:hover {
         color: var(--ocean);
    }
-   .address a:focus {
+   .address:focus {
        color: var(--ocean);
    }
    .header {
