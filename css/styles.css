@@ -25,7 +25,7 @@ background-color: #FFFFFF;
             text-decoration: none;
         }
     }
-    .span {
+    span {
         font-family: var(--second-family);
         font-weight: 700;
         font-size: 18px;
@@ -65,7 +65,7 @@ background-color: #FFFFFF;
         font-size: 16px;
         line-height: 150%;
         letter-spacing: 0.02em;
-        color: var(--navy-blue);
+        color: #434455;
         font-style: normal;
    }
    .address:hover {
