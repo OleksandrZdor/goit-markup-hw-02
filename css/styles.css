@@ -171,12 +171,12 @@ background-color: #FFFFFF;
     .footer {
         background-color: #2e2f42;
     }
-    .footer-text {
+    .footer .footer-text {
         line-height: 1.5;
         color: #F4F4FD;
         letter-spacing: 0.02em;
     }
-     .span-footer {
+     .footer .span-footer {
              font-family: var(--second-family);
              font-weight: 700;
              font-size: 18px;
