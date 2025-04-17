@@ -122,7 +122,7 @@ background-color: #FFFFFF;
     .section-team {
         background-color: #F4F4FD;
     }
-    .team {
+    .section-team .team {
         background-color: #FFFFFF;
     }
     .section-team .team-header {
@@ -134,7 +134,7 @@ background-color: #FFFFFF;
             text-transform: capitalize;
             background-color: #F4F4FD;
     }
-    .section-team .team-list {
+    .section-team .team .list {
             font-weight: 500;
             font-size: 20px;
             line-height: 120%;
@@ -142,7 +142,7 @@ background-color: #FFFFFF;
             text-align: center;
             color: #2e2f42;
     }
-    .section-team .team-list-prof {
+    .section-team .team .list-prof {
             font-weight: 400;
             font-size: 16px;
             line-height: 150%;
