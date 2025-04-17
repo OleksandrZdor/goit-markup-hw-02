@@ -122,6 +122,9 @@ background-color: #FFFFFF;
     .section-team {
         background-color: #F4F4FD;
     }
+    .team {
+        background-color: #FFFFFF;
+    }
     .section-team .team-header {
             color: #2e2f42;
             font-size: 36px;
@@ -137,6 +140,7 @@ background-color: #FFFFFF;
             line-height: 120%;
             letter-spacing: 0.02em;
             text-align: center;
+            color: #2e2f42;
     }
     .section-team .team-list-prof {
             font-weight: 400;
